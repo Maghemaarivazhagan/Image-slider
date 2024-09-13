@@ -74,7 +74,7 @@ header .menu{
     letter-spacing: 10px;
 }
 .slider .list .item .content h2{
-    font-size: 100px;
+    font-size: 90px;
     margin: 0;
 }
 .slider .list .item.active{
@@ -140,6 +140,7 @@ header .menu{
     width: 0;
 }
 .thumbnail .item{
+    margin-top: 10px;
     width: 150px;
     height: 220px;
     filter: brightness(.5);
