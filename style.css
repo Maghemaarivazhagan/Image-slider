@@ -5,7 +5,7 @@ body{
     background-color: #010101;
     color: #eee;
 }
-.search{
+svg{
     width: 25px;
 }
 header{
@@ -170,4 +170,5 @@ header .menu{
         top: 10%;
     }
 }
+
 
