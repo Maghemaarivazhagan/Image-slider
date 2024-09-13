@@ -20,7 +20,9 @@ header{
     position: relative;
     z-index: 100;
 }
-
+header .logo{
+    font-weight: bold;
+}
 header .menu{
     padding: 0;
     margin: 0;
